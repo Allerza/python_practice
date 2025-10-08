@@ -25,3 +25,8 @@ It supports simple arithmetic operations like addition, subtraction, multiplicat
 
 - **Python 3.10 or newer**  
 - No external libraries required — `tkinter` comes built-in with Python
+
+
+
+AND: 
+⚠️👷🏽‍♀️ Still working on it...
